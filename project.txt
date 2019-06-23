@@ -1,0 +1,7 @@
+see what we need to do.
+first create a git hub account
+than create a repository it mean a place wher we are writing code or storing code or project 
+once we create the repository initiate it
+it will create a automatically read.me file
+then go for first commit
+commit
