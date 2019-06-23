@@ -15,3 +15,7 @@ now i am adding new step which i ll commit in branch not in master
 
 branching
  done with branching as well finally
+ 
+now we are comleting our master page or we can say that version 1 completed 
+finally done ready to deliver project..(but it will not reflect in branch )
+
