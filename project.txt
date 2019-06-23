@@ -10,5 +10,12 @@ now for second commit
 we are going to add something let us assume we want toadd something in this project like a new feature
 ok so we have addded new feature
 and now commiting with same master still not doing branching here we will see it next in 
+now i am adding new step which i ll commit in branch not in master
+..why suppose we are adding new feature in our existin code but we are not sure that that this code will function correctly or not sowe are saving in branch and we wll use branch concept.but remember onething we are writing code in master itself
+
+branching
+ done with branching as well finally
+ 
 now we are comleting our master page or we can say that version 1 completed 
 finally done ready to deliver project..(but it will not reflect in branch )
+
