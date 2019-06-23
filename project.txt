@@ -5,3 +5,8 @@ once we create the repository initiate it
 it will create a automatically read.me file
 then go for first commit
 commit
+'
+now for second commit 
+we are going to add something let us assume we want toadd something in this project like a new feature
+ok so we have addded new feature
+and now commiting with same master still not doing branching here we will see it next in 
